@@ -7,3 +7,4 @@
 ## Khong can origin khi git pull
 
 ## test remote
+## git log
